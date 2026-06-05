@@ -3,7 +3,7 @@ let sql;
 
 const buatKoneksi = async () => {
     return await mysql.createConnection({
-        host: 'cuanku.co-id.id',
+        host: '194.233.65.45',
         user: 'u9113kjm_alim',
         password: 'kangalljbg13',
         database: 'u9113kjm_dbkeuangan'
